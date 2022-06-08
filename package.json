@@ -1,5 +1,8 @@
 {
-  "name": "pezeshkbook",
+  "name": "@armin-sh/pakage-test",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/armin-sh"
+  },
   "version": "1.0.0",
   "description": "test publish a module",
   "scripts": {
